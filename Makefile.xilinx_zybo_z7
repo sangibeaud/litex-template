@@ -1,5 +1,5 @@
 litex_platform = xilinx_zybo_z7
-uboot_device_tree = zynq-zybo
+uboot_device_tree = zynq-zybo-z7
 uboot_defconfig = xilinx_zynq_virt_defconfig
 
 vivado = vivado -nojournal -nolog -mode batch
