@@ -1,0 +1,7 @@
+img: {
+	[bootloader] build/ebaz4205/software/u-boot/spl/u-boot-spl.bin
+	[offset=0x100000] build/ebaz4205/software/u-boot/u-boot.img
+	[offset=0x300000] build/ebaz4205/gateware/ebaz4205.bit
+	[offset=0x400000] build/ebaz4205/software/bios/bios.bin
+	[offset=0xfc0000] build/ebaz4205/boot_qspi.scr
+}
