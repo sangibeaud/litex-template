@@ -1,3 +1,6 @@
 /build/
 /zynq_fsbl.elf
 /libeos.zip
+
+vivado_*.jou
+vivado_*.log
