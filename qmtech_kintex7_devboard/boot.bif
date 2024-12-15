@@ -1,0 +1,7 @@
+img: {
+	[bootloader] build/qmtech_kintex7_devboard/software/u-boot/spl/u-boot-spl.bin
+	[offset=0x100000] build/qmtech_kintex7_devboard/software/u-boot/u-boot.img
+	[offset=0x200000] build/qmtech_kintex7_devboard/gateware/qmtech_kintex7_devboard.bit
+	[offset=0xe00000] build/qmtech_kintex7_devboard/software/bios/bios.bin
+	[offset=0xfc0000] build/qmtech_kintex7_devboard/boot_qspi.scr
+}
