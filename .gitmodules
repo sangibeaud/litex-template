@@ -44,3 +44,9 @@
 [submodule "lib/liteeth"]
 	path = lib/liteeth
 	url = https://github.com/enjoy-digital/liteeth.git
+[submodule "examples/linux-on-litex-vexriscv"]
+	path = examples/linux-on-litex-vexriscv
+	url = https://github.com/litex-hub/linux-on-litex-vexriscv
+[submodule "lib/litesata"]
+	path = lib/litesata
+	url = https://github.com/enjoy-digital/litesata.git
